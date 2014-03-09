@@ -1,0 +1,58 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\modeltech_10.1a\examples
+T_opt
+VJBjgUae2EBW3aa6jfSS4Z1
+Z1 04 9 4 work TestBench fast 0
+=1-6466b3a47a19-5311bb38-234-212c
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OE;O;10.1a;51
+Z3 dD:\modeltech_10.1a\examples
+T_opt1
+Ve16l39Je^UK^i9`X:K2^F3
+R1
+=1-6466b3a47a19-5311c43e-25e-1608
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt1
+R2
+vSevenSegmentDisplay
+I?H=_zDQhHe<00m2<`c=HC1
+Vd>0dU2cobGb]<@hNkmzHe3
+Z4 dC:\Users\Yang Shi\Desktop\Exercises\VerilogExercise\SevenSegment
+w1393673261
+8C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/SevenSegmentDisplay.v
+FC:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/SevenSegmentDisplay.v
+L0 2
+Z5 OE;L;10.1a;51
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/SevenSegmentDisplay.v|
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@seven@segment@display
+!s100 :bcnFT0kbgAGmU013C;nn1
+!s108 1393673273.012000
+!s107 C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/SevenSegmentDisplay.v|
+!i10b 1
+!s85 0
+vTestBench
+!s100 QOP_lLl7aeO=CnVH[`:DS2
+INgz03S2@fjENm@M=@4Gnj0
+VH;VS]59WmQ>4a<zRibM9Z0
+R4
+w1393671348
+8C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/TestBench.v
+FC:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/TestBench.v
+L0 1
+R5
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/TestBench.v|
+R6
+n@test@bench
+!i10b 1
+!s85 0
+!s108 1393673273.156000
+!s107 C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/TestBench.v|

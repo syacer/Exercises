@@ -1,0 +1,107 @@
+m255
+K3
+13
+cModel Technology
+dD:\modeltech_10.1a\examples
+T_opt
+V<JPz[SE5W<PK1WZjOYmG^1
+04 23 4 work AdderSubtractor8BitTest fast 0
+=1-6466b3a47a19-531487a1-123-4f28
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.1a;51
+vAdderSubtractor8BitTest
+Vll9f]nYL;UAnUl>4`]ZCO3
+r1
+31
+I`aW6MHg>D9XmiTiMXafJ`3
+Z0 dC:\Users\Yang Shi\Desktop\Exercises\VerilogExercise\AdderSub
+Z1 w1393849583
+Z2 8C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v
+Z3 FC:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v
+L0 27
+Z4 OE;L;10.1a;51
+Z5 !s108 1393854216.892000
+Z6 !s107 C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@adder@subtractor8@bit@test
+!i10b 1
+!s85 0
+!s100 d>Lj`gZCCIEn@>i8czTBz1
+vAddSub1Bit
+VZg40F`UWdZ:KATDDcoZmz0
+r1
+31
+Ij25jK?@H5QJV6FHIE2:k]2
+Z9 dC:\Users\Yang Shi\Desktop\Exercises\VerilogExercise\AdderSub
+Z10 w1393853622
+Z11 8C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v
+Z12 FC:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v
+L0 79
+R4
+Z13 !s108 1393854216.609000
+Z14 !s107 C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v|
+R8
+n@add@sub1@bit
+!i10b 1
+!s85 0
+!s100 <E^:^Aok2E9Re9V1l?WaN1
+vAddSub8Bit
+VRH2e]h1WM]f0B6j2T1oi21
+r1
+31
+I@LKlUF@`A`LD]S?S=SZ`a2
+R9
+R10
+R11
+R12
+L0 1
+R4
+R13
+R14
+R15
+R8
+n@add@sub8@bit
+!i10b 1
+!s85 0
+!s100 kY=GY7ao:Bn^YdeX5AQ<>3
+vGoldenDevice
+VUE=IQj<IB:BXH?nT8`>[z3
+r1
+31
+IS_5dBAZV5UecDJKdA@McQ1
+R9
+R1
+R2
+R3
+L0 6
+R4
+R5
+R6
+R7
+R8
+n@golden@device
+!i10b 1
+!s85 0
+!s100 4N`KD7Yk_IUaJO^[Zl5^23
+vTestAddSub1Bit
+IIE?ze2@zOh;2DKKI;X_Go3
+V5eJ@zVUb3@OgGPj4_@fz50
+R9
+R10
+R11
+R12
+L0 95
+R4
+r1
+31
+R13
+R14
+R15
+R8
+n@test@add@sub1@bit
+!s100 XF<fb=E42D:`RPSUGDm>b3
+!i10b 1
+!s85 0

@@ -1,0 +1,2 @@
+verilog work "SevenSegmentDisplay.v"
+verilog work "TestBench.v"

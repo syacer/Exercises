@@ -1,0 +1,154 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\modeltech_10.1a\examples
+T_opt
+V<JPz[SE5W<PK1WZjOYmG^1
+04 23 4 work AdderSubtractor8BitTest fast 0
+=1-6466b3a47a19-531487a1-123-4f28
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OE;O;10.1a;51
+Z3 dD:\modeltech_10.1a\examples
+T_opt1
+VhWb_CU5?86DzigALlakCE0
+04 9 4 work Adder8Bit fast 0
+=1-6466b3a47a19-5314a4a6-1cd-505c
+R1
+n@_opt1
+R2
+R3
+vAdd1Bit
+V>EFKzM?YCE_TYznL4B4Da3
+r1
+31
+IXC?8]cAOF;f5`PaaFS3ID2
+Z4 dC:\Users\Yang Shi\Desktop\Exercises\VerilogExercise\AdderSub
+Z5 w1393885361
+Z6 8C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v
+Z7 FC:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v
+L0 23
+Z8 OE;L;10.1a;51
+Z9 !s108 1393885437.670000
+Z10 !s107 C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v|
+Z12 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@add1@bit
+!s100 76Zo=zldDSN=[_W9nz3>]0
+!i10b 1
+!s85 0
+vAdder8Bit
+V@@mPO?g1H79AiilUP<16d0
+r1
+31
+IKT8iQkS[X`FSm;6zeU?2a2
+R4
+R5
+R6
+R7
+L0 36
+R8
+R9
+R10
+R11
+R12
+n@adder8@bit
+!s100 o38OTYeGKF4mlT4CRX61F3
+!i10b 1
+!s85 0
+vAdderSubtractor8BitTest
+Vll9f]nYL;UAnUl>4`]ZCO3
+r1
+31
+I?O6IFi^ooC;jd>AY<4D:=2
+R4
+Z13 w1393885500
+Z14 8C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v
+Z15 FC:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v
+L0 27
+R8
+Z16 !s108 1393885511.392000
+Z17 !s107 C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v|
+Z18 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v|
+R12
+n@adder@subtractor8@bit@test
+!i10b 1
+!s85 0
+!s100 ClkOAhkIGif=9FIQM9PUN1
+vAddSub1Bit
+VZg40F`UWdZ:KATDDcoZmz0
+r1
+31
+I:B9f6UhRn^VZ30:lP00_k2
+R4
+w1393858096
+R6
+R7
+L0 79
+R8
+R10
+R11
+R12
+n@add@sub1@bit
+!s108 1393858098.933000
+!s100 ^VV`=`VFe8i;a61=WUMZd1
+!i10b 1
+!s85 0
+vAddSub8Bit
+VRH2e]h1WM]f0B6j2T1oi21
+r1
+31
+Io5_kFFCIJR09?_]5o14P90
+R4
+R5
+R6
+R7
+L0 1
+R8
+R9
+R10
+R11
+R12
+n@add@sub8@bit
+!s100 [mRCX;HSB83Xz`mhg2eaG0
+!i10b 1
+!s85 0
+vGoldenDevice
+!i10b 1
+VUE=IQj<IB:BXH?nT8`>[z3
+r1
+!s85 0
+31
+IS_5dBAZV5UecDJKdA@McQ1
+R4
+R13
+R14
+R15
+L0 6
+R8
+R16
+R17
+R18
+R12
+n@golden@device
+!s100 4N`KD7Yk_IUaJO^[Zl5^23
+vTestAddSub1Bit
+IK82_IoA[P9c`JUmYVIVRG1
+V5eJ@zVUb3@OgGPj4_@fz50
+R4
+R5
+R6
+R7
+L0 110
+R8
+r1
+31
+R9
+R10
+R11
+R12
+n@test@add@sub1@bit
+!s100 QII`E`[FhjKEnaCQUT3e:1
+!i10b 1
+!s85 0

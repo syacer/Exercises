@@ -1,0 +1,20 @@
+{C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v} {1 {vlog -work work -vopt {C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/AddSub8Bit.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module AddSub8Bit
+-- Compiling module Add1Bit
+-- Compiling module Adder8Bit
+-- Compiling module TestAddSub1Bit
+
+Top level modules:
+	AddSub8Bit
+	TestAddSub1Bit
+
+} {} {}} {C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v} {1 {vlog -work work -vopt {C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/AdderSub/TestBench.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module GoldenDevice
+-- Compiling module AdderSubtractor8BitTest
+
+Top level modules:
+	AdderSubtractor8BitTest
+
+} {} {}}

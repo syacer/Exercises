@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/SevenSegmentLED/TestBench_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="TestBench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/TestBench/SevenSegOne" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">SevenSegOne[6:0]</obj_property>
+      <obj_property name="ObjectShortName">SevenSegOne[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/SevenSegTwo" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">SevenSegTwo[6:0]</obj_property>
+      <obj_property name="ObjectShortName">SevenSegTwo[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/SevenSegThree" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">SevenSegThree[6:0]</obj_property>
+      <obj_property name="ObjectShortName">SevenSegThree[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/DataIn" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DataIn[6:0]</obj_property>
+      <obj_property name="ObjectShortName">DataIn[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/Clk" type="logic" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+      <obj_property name="label">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/Inst1/Clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#000080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBench/Inst1/Temp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Temp[6:0]</obj_property>
+      <obj_property name="ObjectShortName">Temp[6:0]</obj_property>
+      <wvobject fp_name="/TestBench/Inst1/Temp[6]" type="logic" db_ref_id="1">
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="ElementShortName">[6]</obj_property>
+         <obj_property name="ObjectShortName">Temp[6]</obj_property>
+         <obj_property name="label">[6]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TestBench/Inst1/Temp[5]" type="logic" db_ref_id="1">
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="ElementShortName">[5]</obj_property>
+         <obj_property name="ObjectShortName">Temp[5]</obj_property>
+         <obj_property name="label">[5]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TestBench/Inst1/Temp[4]" type="logic" db_ref_id="1">
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="ElementShortName">[4]</obj_property>
+         <obj_property name="ObjectShortName">Temp[4]</obj_property>
+         <obj_property name="label">[4]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TestBench/Inst1/Temp[3]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[3]</obj_property>
+         <obj_property name="ObjectShortName">Temp[3]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TestBench/Inst1/Temp[2]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[2]</obj_property>
+         <obj_property name="ObjectShortName">Temp[2]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TestBench/Inst1/Temp[1]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[1]</obj_property>
+         <obj_property name="ObjectShortName">Temp[1]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/TestBench/Inst1/Temp[0]" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">[0]</obj_property>
+         <obj_property name="ObjectShortName">Temp[0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/TestBench/Inst1/DataIn" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DataIn[6:0]</obj_property>
+      <obj_property name="ObjectShortName">DataIn[6:0]</obj_property>
+   </wvobject>
+</wave_config>

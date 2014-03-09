@@ -1,0 +1,8 @@
+{C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/TestBench.v} {1 {vlog -work work -vopt {C:/Users/Yang Shi/Desktop/Exercises/VerilogExercise/SevenSegment/TestBench.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}}
